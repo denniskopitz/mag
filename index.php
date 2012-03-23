@@ -54,7 +54,11 @@ if (!file_exists($mageFilename)) {
     exit;
 }
 
-#test1
+#test2
+
+#w
+
+#
 
 
 if (file_exists($maintenanceFile)) {
